@@ -1,3 +1,6 @@
-2026/05/21-08:03:58.845 3bb44 Reusing MANIFEST /home/dhruv/Desktop/chromium(Nexusprimeomega)/Default/Local Storage/leveldb/MANIFEST-000001
-2026/05/21-08:03:58.888 3bb44 Recovering log #4
-2026/05/21-08:03:58.890 3bb44 Reusing old log /home/dhruv/Desktop/chromium(Nexusprimeomega)/Default/Local Storage/leveldb/000004.log 
+2026/05/24-09:30:06.723 f39 Reusing MANIFEST /home/dhruv/Desktop/uko/cpr/Default/Local Storage/leveldb/MANIFEST-000001
+2026/05/24-09:30:06.820 f39 Recovering log #4
+2026/05/24-09:30:06.831 f39 Reusing old log /home/dhruv/Desktop/uko/cpr/Default/Local Storage/leveldb/000004.log 
+2026/05/24-09:33:44.609 f3b Level-0 table #8: started
+2026/05/24-09:33:44.628 f3b Level-0 table #8: 28775 bytes OK
+2026/05/24-09:33:44.639 f3b Delete type=0 #4
